@@ -2,7 +2,4 @@
 Clone Momentum App to practice Vanilla Javascript
 
 With Nomadcoder's source
-
-link : https://nomadcoders.co/javascript-for-beginners/
-
-web link : https://roa9618.github.io/Momentum-Clone/
+Source-link : https://nomadcoders.co/javascript-for-beginners/
